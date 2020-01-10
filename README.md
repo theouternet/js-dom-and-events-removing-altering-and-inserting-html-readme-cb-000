@@ -115,6 +115,13 @@ ul.remove();
 
 And it's gone!
 
+## Working in index.js
+
+Now that you've experimented with manipulating DOM nodes in the Javascript console,
+try saving some of your Javascript DOM manipulation code to `js/index.js`. You'll
+notice that when you reload the page, your code runs just as it did in the console.
+
+
 ## Resources
 
 - [document.createElement()](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement)
