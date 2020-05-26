@@ -22,4 +22,6 @@
      
     element.appendChild(ul);
     
-    
+        ul.style.textAlign = 'left';
+        
+        
